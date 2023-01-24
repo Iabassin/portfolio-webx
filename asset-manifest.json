@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfolio-webx/static/css/main.43c86f1c.css",
+    "main.js": "/portfolio-webx/static/js/main.8dceba6c.js",
+    "static/media/CV-soufianiabassin.pdf": "/portfolio-webx/static/media/CV-soufianiabassin.5764bc528ce3b43c6e04.pdf",
+    "static/media/aboutme.jpeg": "/portfolio-webx/static/media/aboutme.00b505d95a6c43a8afe7.jpeg",
+    "static/media/illustration.svg": "/portfolio-webx/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/sass-icon.svg": "/portfolio-webx/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
+    "static/media/mysql-icon.svg": "/portfolio-webx/static/media/mysql-icon.e5a509a5d3ca7443ae6ccf379181381d.svg",
+    "static/media/node-icon.svg": "/portfolio-webx/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/portfolio-webx/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/bootstrap-icon.svg": "/portfolio-webx/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
+    "static/media/react-icon.svg": "/portfolio-webx/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "index.html": "/portfolio-webx/index.html",
+    "static/media/phone-icon.svg": "/portfolio-webx/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/email-icon.svg": "/portfolio-webx/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/html-icon.svg": "/portfolio-webx/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/css-icon.svg": "/portfolio-webx/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
+    "static/media/vscode-icon.svg": "/portfolio-webx/static/media/vscode-icon.3001bc63a45d488b7d2c332e4a2059ad.svg",
+    "static/media/js-icon.svg": "/portfolio-webx/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "static/media/vue-icon.svg": "/portfolio-webx/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
+    "static/media/github-icon.svg": "/portfolio-webx/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
+    "static/media/external-link-icon.svg": "/portfolio-webx/static/media/external-link-icon.97075d22dfb22a8c8d253b264e892b5f.svg",
+    "main.43c86f1c.css.map": "/portfolio-webx/static/css/main.43c86f1c.css.map",
+    "main.8dceba6c.js.map": "/portfolio-webx/static/js/main.8dceba6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43c86f1c.css",
+    "static/js/main.8dceba6c.js"
+  ]
+}
